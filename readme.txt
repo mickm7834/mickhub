@@ -1,2 +1,2 @@
 Git repository.
-Dev branch.
+Master branch.
